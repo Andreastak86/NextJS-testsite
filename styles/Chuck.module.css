@@ -1,0 +1,24 @@
+.button {
+  color: rgba(255, 0, 0, 0.603);
+  cursor: pointer;
+  background: blue;
+  border: none;
+  border-radius: 2rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.button:hover {
+  color: blue;
+  background: red;
+}
+
+.h1 {
+  color: blue;
+  width: 30rem;
+  text-align: center;
+  margin: 2rem auto;
+}
